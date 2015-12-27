@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Webdriver_Java_Example:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Webdriver_Java_Example_jar</output-path>
+    <root id="archive" name="Webdriver_Java_Example.jar">
+      <element id="module-output" name="Webdriver_Java_Example" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/selenium-server-standalone-2.39.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
